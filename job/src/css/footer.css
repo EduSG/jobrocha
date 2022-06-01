@@ -1,0 +1,29 @@
+.maps{
+  max-width: 1720px;
+  margin: 0 auto;
+}
+
+.maps-child{
+    width: 100%;
+    max-height:350px;
+}
+
+footer {
+  margin: 0 auto;
+  height: 30vh;
+  background-color: #4D4B4B;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.menufoot li {
+  width: 0 auto;
+  display: inline;
+}
+
+.redes-sociais{
+  text-align: center;
+  font-size: 20px;
+}
